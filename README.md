@@ -10,7 +10,7 @@ There is some example junk which you can just delete. As long as you got your se
 # Commands
 Only the most simple and basics commands are supported: Join, Leave, Create, Relay.
 
-Note that because the server is ultra simple, I did't implement any command verification. This means
+Note that because the server is ultra simple, I didn't implement any command verification. This means
 that lobbies can be overriden. However, I find this more than enough for simply testing purposes.
 Feel free to make a Pull Request if you want to.
 
